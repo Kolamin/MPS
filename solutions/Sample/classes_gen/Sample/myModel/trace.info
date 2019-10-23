@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:b35e46b4-c941-47ca-9ff8-a893ad9bb588(Sample.myModel)/2089699536009949831">
+    <file name="Demo.java">
+      <node id="2089699536009962404" at="7,42,8,39" concept="0" />
+      <node id="2089699536009962297" at="7,0,10,0" concept="1" trace="main#([Ljava/lang/String;)V" />
+      <scope id="2089699536009962303" at="7,42,8,39" />
+      <scope id="2089699536009962297" at="7,0,10,0">
+        <var name="args" id="2089699536009962298" />
+      </scope>
+      <unit id="2089699536009949831" at="6,0,11,0" name="Sample.myModel.Demo" />
+    </file>
+  </root>
+</debug-info>
+
